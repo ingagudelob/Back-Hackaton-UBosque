@@ -1,0 +1,11 @@
+.container-header{
+    background-color: rgb(82, 102, 218);
+}
+.cont-header-inf{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   color:rgb(244, 241, 248);
+   padding-left: 35%;
+}
+.p{
+    color: blueviolet;
+}
